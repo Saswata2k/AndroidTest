@@ -1,0 +1,2 @@
+Linked List Traversal
+In the previous program, we have created a simple linked list with three nodes. Let us traverse the created list and print the data of each node. For traversal, let us write a general purpose function printList() that prints any given list.
